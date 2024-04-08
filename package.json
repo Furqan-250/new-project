@@ -11,5 +11,8 @@
     "js"
   ],
   "author": "Furqan Siddique",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
